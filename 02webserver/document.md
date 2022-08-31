@@ -12,13 +12,13 @@ To builde and run the project, you will need a few thing:
 - Clone the repository
 
 ```bash
-git clone --depth=1 https://github.com/updata7/easy-server.git
+git clone --depth=1 https://github.com/updata7/meet-node.git
 ```
 
 - Install dependencies
 
 ```bash
-cd test-backend-for-updata7
+cd meet-node
 npm install
 ```
 
