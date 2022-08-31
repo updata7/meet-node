@@ -1,0 +1,12 @@
+logs/
+.idea/
+node_modules/
+.vscode
+.DS_Store
+yarn-error.log
+.eslintcache
+running
+**/**/node_modules
+**/**/dist
+*.rdb
+report.*
