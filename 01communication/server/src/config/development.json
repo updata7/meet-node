@@ -1,6 +1,5 @@
 {
     "port": 9091,
-    "tcpPort": 12123,
     "apiPrefix": "/api",
     "jwt": {
         "algorithm": "HS256",
@@ -10,6 +9,10 @@
     "mongodb": {
         "uri": "mongodb://127.0.0.1:27020/",
         "dbname": "testdb"
+    },
+    "tcp": {
+        "port": 12123,
+        "host": "127.0.0.1"
     },
     "mysql": {
         "dbname": "xmf",
